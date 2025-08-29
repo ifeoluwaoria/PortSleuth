@@ -50,8 +50,15 @@ PortSleuth is intended for educational purposes only. Do not use this tool to sc
 
 This project is open-source and available under the MIT License.
 
-License
 
-This project is open-source and available under the MIT License.
+---
+
+### **Next Steps to Update GitHub**
+
+1. Open README in Nano:
+
+```bash
+nano README.md
+
 
  
