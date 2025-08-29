@@ -7,7 +7,8 @@ PortSleuth is a lightweight Python 3 script for scanning TCP ports on a target h
 
 - Scan single ports, multiple ports, or a range of ports.
 - Default scan includes ports 80 and 443.
-- Simple output indicating **OPEN** or **CLOSED/filtered** ports.
+- **Colored output**: green for open ports, red for closed/filtered.
+- **Progress indicator** shows which port is being scanned.
 - Easy to run with Python 3.
 
 ## Installation
