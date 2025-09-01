@@ -1,0 +1,11 @@
+URL,Header,Value
+example.com,Accept-Ranges,bytes
+example.com,Content-Type,text/html
+example.com,ETag,"""84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134"""
+example.com,Last-Modified,"Mon, 13 Jan 2025 20:11:20 GMT"
+example.com,Vary,Accept-Encoding
+example.com,Content-Encoding,gzip
+example.com,Cache-Control,max-age=3231
+example.com,Date,"Mon, 01 Sep 2025 11:36:32 GMT"
+example.com,Content-Length,648
+example.com,Connection,keep-alive

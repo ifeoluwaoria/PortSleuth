@@ -1,0 +1,111 @@
+URL,Header,Value
+https://www.nytimes.com,Connection,close
+https://www.nytimes.com,Content-Length,220517
+https://www.nytimes.com,x-b3-traceid,495cbae6b732e4dc
+https://www.nytimes.com,x-nyt-data-last-modified,"Mon, 01 Sep 2025 11:02:28 GMT"
+https://www.nytimes.com,last-modified,"Mon, 01 Sep 2025 11:02:28 GMT"
+https://www.nytimes.com,build-timestamp,1756484634000
+https://www.nytimes.com,x-pagetype,vi-homepage
+https://www.nytimes.com,x-xss-protection,1; mode=block
+https://www.nytimes.com,x-content-type-options,nosniff
+https://www.nytimes.com,content-type,text/html; charset=utf-8
+https://www.nytimes.com,x-envoy-upstream-service-time,284
+https://www.nytimes.com,server,envoy
+https://www.nytimes.com,x-envoy-decorator-operation,vi.nyt.net:443/*
+https://www.nytimes.com,content-encoding,gzip
+https://www.nytimes.com,cache-control,"s-maxage=30,no-cache"
+https://www.nytimes.com,x-nyt-route,homepage
+https://www.nytimes.com,X-Origin-Time,2025-09-01 11:02:33 UTC
+https://www.nytimes.com,Accept-Ranges,bytes
+https://www.nytimes.com,Date,"Mon, 01 Sep 2025 11:02:47 GMT"
+https://www.nytimes.com,Age,14
+https://www.nytimes.com,X-Served-By,"cache-lga21990-LGA, cache-lcy-egml8630043-LCY"
+https://www.nytimes.com,X-Cache,"HIT, HIT"
+https://www.nytimes.com,X-Cache-Hits,"1, 1"
+https://www.nytimes.com,X-Timer,"S1756724567.313904,VS0,VE3"
+https://www.nytimes.com,Vary,"Accept-Encoding, Fastly-SSL"
+https://www.nytimes.com,Set-Cookie,"nyt-a=UNLAaDa9QmgQeQAm9bwuJj; Expires=Tue, 01 Sep 2026 11:02:47 GMT; Path=/; Domain=.nytimes.com; SameSite=none; Secure, nyt-gdpr=1; Expires=Mon, 01 Sep 2025 17:02:47 GMT; Path=/; Domain=.nytimes.com, nyt-purr=cfhhpnahhudlhulssdds2fdnd; Expires=Tue, 01 Sep 2026 11:02:47 GMT; Path=/; Domain=.nytimes.com; SameSite=Lax; Secure, nyt-geo=GB; Expires=Mon, 01 Sep 2025 17:02:47 GMT; Path=/; Domain=.nytimes.com, datadome=0; Domain=.nytimes.com; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; SameSite=Lax; Secure, nyt-traceid=00000000000000001ba8625254fe2411; Path=/; Domain=.nytimes.com; SameSite=none; Secure"
+https://www.nytimes.com,x-gdpr,1
+https://www.nytimes.com,Permissions-Policy,browsing-topics=()
+https://www.nytimes.com,X-Frame-Options,DENY
+https://www.nytimes.com,X-API-Version,F-F-VI
+https://www.nytimes.com,Content-Security-Policy,upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https: nytresource:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob: nytresource:; style-src data: 'unsafe-inline' https: nytresource:; img-src data: https: blob: android-webview-video-poster: nytresource:; font-src data: https: nytresource:; connect-src data: https: wss: blob: nytresource:; media-src data: https: blob: nytresource:; object-src https:; child-src https: data: blob: nytresource:; form-action https:; report-uri https://csp.nytimes.com/report;
+https://www.nytimes.com,Strict-Transport-Security,max-age=63072000; includeSubDomains; preload
+https://www.nytimes.com,Access-Control-Expose-Headers,"X-Nyt-Mktg-Group, X-Nyt-Mktg-Group"
+https://www.nytimes.com,x-nyt-mktg-group,group5
+https://www.nytimes.com,x-nyt-edge-cache,HIT-HIT
+https://www.nytimes.com,x-nyt-app-webview,0
+https://www.nytimes.com,x-nyt-app-map,"webview=false,preloaded=false,service-worker-enabled=false"
+https://www.nytimes.com,Access-Control-Allow-Headers,"traceparent, tracestate, X-B3-Sampled, X-B3-SpanId, X-B3-TraceId, x-datadog-origin, x-datadog-parent-id, x-datadog-sampling-priority, x-datadog-trace-id, x-nyt-entitlements, x-nyt-internal-meter-override, x-nyt-programming-abtest, traceparent, tracestate, X-B3-Sampled, X-B3-SpanId, X-B3-TraceId, x-datadog-origin, x-datadog-parent-id, x-datadog-sampling-priority, x-datadog-trace-id, x-nyt-entitlements, x-nyt-internal-meter-override, x-nyt-programming-abtest"
+https://www.cisco.com,x-frame-options,SAMEORIGIN
+https://www.cisco.com,Accept-Ranges,bytes
+https://www.cisco.com,x-vhost,publish
+https://www.cisco.com,Content-Type,text/html;charset=utf-8
+https://www.cisco.com,X-Content-Type-Options,nosniff
+https://www.cisco.com,X-Served-By,cache-iad-kjyo7100132-IAD
+https://www.cisco.com,X-Timer,"S1756706599.048426,VS0,VS0,VE11"
+https://www.cisco.com,X-Akamai-Transformed,"9 - 0 pmb=mRUM,1"
+https://www.cisco.com,Content-Encoding,gzip
+https://www.cisco.com,Expires,"Mon, 01 Sep 2025 11:02:47 GMT"
+https://www.cisco.com,Cache-Control,"max-age=0, no-cache, no-store"
+https://www.cisco.com,Pragma,no-cache
+https://www.cisco.com,Date,"Mon, 01 Sep 2025 11:02:47 GMT"
+https://www.cisco.com,Content-Length,18321
+https://www.cisco.com,Connection,keep-alive
+https://www.cisco.com,Vary,Accept-Encoding
+https://www.cisco.com,Server-Timing,"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=""1756724567422_1750123444_179719503_47_9333_19_18_-"";dur=1"
+https://www.cisco.com,Content-Security-Policy,upgrade-insecure-requests; frame-ancestors *.cisco.com *.jasper.com *.ciscospark.com *.ciscolive.com  http://cisco.lookbookhq.com https://cisco.lookbookhq.com testcisco.marketing.adobe.com cisco.marketing.adobe.com ciscosales.my.salesforce.com test.salesforce.com zedo.com hindustantimes.com economictimes.indiatimes.com *.webex.com *.cdw.com *.cdwg.com *.cdw.ca *.meraki-go.com http://ciscopartners.lookbookhq.com https://ciscopartners.lookbookhq.com ciscolearningsystem.com ciscocustomer.lookbookhq.com cisco.lookbookhq.com ccsmedia.com *.itquotes.ie dteonline.com ampito-cisco.com arkphire.com *.insight.com *.ccsmedia.com *.ebuyer.com *.lambda-tek.com *.storm-technologies.com *.vohkus.com *.bechtle.com *.rainfocus.com *.broadbandbuyer.com *.hardware.com shop.redpontem.com *.miro.com cisco.techdatavendors.be *.service-now.com *.thousandeyes.com *.duo.com duo.com *.umbrella.com *.pricespider.com *.mapbox.com  *.vercel.app cdnjs.cloudflare.com https://community.cisco.com/;
+https://www.cisco.com,Strict-Transport-Security,max-age=31536000
+https://www.cisco.com,Set-Cookie,c_bi=41029c5a8b884756a03cfc6fe599cff5; path=/; domain=.www.cisco.com; Secure
+https://www.bbc.com,Date,"Mon, 01 Sep 2025 11:02:47 GMT"
+https://www.bbc.com,Content-Type,text/html; charset=utf-8
+https://www.bbc.com,Content-Length,82606
+https://www.bbc.com,Connection,keep-alive
+https://www.bbc.com,Keep-Alive,timeout=120
+https://www.bbc.com,belfrage-cache-status,HIT
+https://www.bbc.com,bid,sally
+https://www.bbc.com,brequestid,d02f26ed07b34c1489e4a8f602295a90
+https://www.bbc.com,bsig,4e96bd427dd182fd8c31aca807fafd41
+https://www.bbc.com,cache-control,"public, stale-if-error=90, stale-while-revalidate=30, max-age=30"
+https://www.bbc.com,content-encoding,gzip
+https://www.bbc.com,etag,"""15v88fjufmeb8jp"""
+https://www.bbc.com,referrer-policy,no-referrer-when-downgrade
+https://www.bbc.com,req-svc-chain,"GTM,BELFRAGE,BBCX"
+https://www.bbc.com,vary,accept-encoding
+https://www.bbc.com,via,"1.1 BBC-GTM, 1.1 Belfrage"
+https://www.bbc.com,x-content-type-options,nosniff
+https://www.bbc.com,x-correlation-id,b32ed45a-6c1d-4917-8c04-48092d472ed5
+https://www.bbc.com,x-envoy-upstream-service-time,1
+https://www.bbc.com,x-frame-options,SAMEORIGIN
+https://www.bbc.com,Origin-Agent-Cluster,?0
+https://www.bbc.com,x-lb-nocache,true
+https://www.bbc.com,nel,"{""report_to"":""default"",""max_age"":2592000,""include_subdomains"":true,""failure_fraction"":0.25}"
+https://www.bbc.com,X-BBC-Edge-Cache-Status,STALE
+https://www.bbc.com,report-to,"{""group"":""default"",""max_age"":2592000,""endpoints"":[{""url"":""https://default.bbc-reporting-api.app/report-endpoint"",""priority"":1}],""include_subdomains"":true}"
+https://www.bbc.com,Server,BBC-GTM
+https://www.bbc.com,Strict-Transport-Security,max-age=31536000; preload
+https://www.bbc.com,X-Robots-Tag,bingbot: noarchive
+https://www.google.com,Date,"Mon, 01 Sep 2025 11:02:47 GMT"
+https://www.google.com,Expires,-1
+https://www.google.com,Cache-Control,"private, max-age=0"
+https://www.google.com,Content-Type,text/html; charset=ISO-8859-1
+https://www.google.com,Content-Security-Policy-Report-Only,object-src 'none';base-uri 'self';script-src 'nonce-umlA2ES-7C46MH3XmTodzQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+https://www.google.com,Accept-CH,Sec-CH-Prefers-Color-Scheme
+https://www.google.com,P3P,"CP=""This is not a P3P policy! See g.co/p3phelp for more info."""
+https://www.google.com,Content-Encoding,gzip
+https://www.google.com,Server,gws
+https://www.google.com,X-XSS-Protection,0
+https://www.google.com,X-Frame-Options,SAMEORIGIN
+https://www.google.com,Set-Cookie,"SOCS=CAAaBgiAxNPFBg; expires=Thu, 01-Oct-2026 11:02:47 GMT; path=/; domain=.google.com; Secure; SameSite=lax, AEC=AVh_V2hLRuQhUHOGI3-lau6O3nHtntW4ewAng902jPyXiYn8bCsQr0FMWg; expires=Sat, 28-Feb-2026 11:02:47 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, __Secure-ENID=28.SE=UD-AXn89sf803UDblY9_t6Qe257nOA7tYAX6QSnsD6Gt34yuasgv9xJy39Q8wQYt1Jvw2FIhAUZooMzAGLLJIU5zwnTbIU_LjnzsudjRXCOR2THp45v1Geo4TRE-HqNwjxQU_MeBMKEmFjy44YJXI8dhQShw2YhJ5lyj2GX4zXZNVMoVzJrzVhTMsXefiM8GdQRI8eE6rBi-27ZpXIDQIqvjDE0; expires=Fri, 02-Oct-2026 03:21:05 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax"
+https://www.google.com,Alt-Svc,"h3="":443""; ma=2592000,h3-29="":443""; ma=2592000"
+https://www.google.com,Transfer-Encoding,chunked
+http://example.com,Accept-Ranges,bytes
+http://example.com,Content-Type,text/html
+http://example.com,ETag,"""84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134"""
+http://example.com,Last-Modified,"Mon, 13 Jan 2025 20:11:20 GMT"
+http://example.com,Vary,Accept-Encoding
+http://example.com,Content-Encoding,gzip
+http://example.com,Cache-Control,max-age=2016
+http://example.com,Date,"Mon, 01 Sep 2025 11:02:47 GMT"
+http://example.com,Content-Length,648
+http://example.com,Connection,keep-alive
